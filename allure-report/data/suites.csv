@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 30 13:22:11 IST 2023","Mon Oct 30 13:22:17 IST 2023","5860","All Test Suite","APIAuromationRestAssured","org.example.misc.TestFile","org.example.misc.TestFile","postRequest","postRequest",""
